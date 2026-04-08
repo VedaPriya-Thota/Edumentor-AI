@@ -1,0 +1,21 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Node
+node_modules/
+
+# Environment variables
+.env
+*.env
+
+# Python virtual env
+venv/
+.venv/
+
+# Database files
+*.db
+
+# Python cache
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
